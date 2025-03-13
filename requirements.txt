@@ -1,6 +1,6 @@
 yfinance
 pandas
-matplotlib.pyplot
+matplotlib
 streamlit
 numpy
 os  
